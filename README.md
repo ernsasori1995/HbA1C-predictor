@@ -1,4 +1,4 @@
-Introduction :
+# Introduction :
 The following project uses data sets from two previously published studies to
 characterize cardiovascular risk factors in central Virginia for African-Americans (courtesy of Dr.
 John Schorling, University of Virginia School of Medicine).
@@ -18,9 +18,8 @@ For more information about the original studies see:
 factors among rural blacks: A community-based study. Southern Medical Journal 90:814-
 820; 1997
 2) Schorling JB, Roach J, Siegel M, Baturka N, Hunt DE, Guterbock TM, Stewart HL: A trial of
-church-based smoking cessation interventions for rural African Americans. Preventive
-Medicine 26:92-101; 1997.
-Objective
+church-based smoking cessation interventions for rural African Americans. Preventive Medicine 26:92-101; 1997.
+# Objective
 Diabetes Mellitus (DM) Type II is strongly associated with obesity and hypertension. The waist-to-hip ratio may be a predictor of both diabetes and heart disease. Glycosylated hemoglobin
 (HbA1c) > 7.0 is usually taken as a positive diagnosis of diabetes
 The primary objective of this project is to characterize the relationship between BMI and
