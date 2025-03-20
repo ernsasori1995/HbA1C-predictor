@@ -1,6 +1,6 @@
 Introduction :
-The following project uses data sets combined from two previously published studies to
-characterize cardiovascular risk factors in central Virginia for African Americans (courtesy of Dr.
+The following project uses data sets from two previously published studies to
+characterize cardiovascular risk factors in central Virginia for African-Americans (courtesy of Dr.
 John Schorling, University of Virginia School of Medicine).
 The first study was a community-based study on the prevalence of coronary heart disease risk
 factors among rural blacks. This study was conducted to determine the prevalence of coronary
@@ -11,7 +11,7 @@ The second study was a trial of church-based smoking cessation interventions for
 Americans. This was done to address the health problems of African Americans in two rural
 counties in Virginia. To target smoking behavior, a smoking cessation program was designed
 and implemented by church groups. This program combined one-on-one counseling with two
-counselors as well as self-help materials and community-wide activities. To measure the
+counselors, self-help materials, and community-wide activities. To measure the
 effectiveness of the intervention, respondents were recontacted after 18 months through a door-to-door survey to evaluate smoking cessation, stages of change, and exposure to the intervention.
 For more information about the original studies see:
 1) Willems JP, Saunders JT, DE Hunt, JB Schorling: Prevalence of coronary heart disease risk
